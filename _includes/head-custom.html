@@ -11,12 +11,17 @@
 <a href="https://www.youtube.com/channel/UCXm-Xgt4hMRfjH9o00uj7jA"><img src="https://dbshorts.github.io/damians-blog/icons/youtubeNandD.png" alt="N And D YouTube"></a>
 <a href="https://www.facebook.com/groups/327218335972908"><img src="https://dbshorts.github.io/damians-blog/icons/facebook.png" alt="Facebook Group"></a>
 <a href="https://www.guilded.gg/i/EmzMZBZ2"><img src="https://dbshorts.github.io/damians-blog/icons/guilded.png" alt="Guilded Server"></a>
-<input id="clickMe" type="button" value="Invert Colors (Light Theme)" onclick="Invert();" />
+<input id="clickMe" type="button" value="Light (Inverted) Theme" onclick="Invert();" />
+<input id="clickMe" type="button" value="Dark Theme" onclick="Revert();" />
 <script>
   function Invert() {
     javascript:(()=>{const s=document.documentElement.style;s.backgroundColor='black';s.filter='invert(100%)';})();void 0;
   };
+  function Revert() {
+    javascript:(()=>{const s=document.documentElement.style;s.backgroundColor='black';s.filter='invert(0%)';})();void 0;
+  };
 </script>
+
 
 <!-- Setup theme-color -->
 {% include head-custom-theme-colors.html %}
