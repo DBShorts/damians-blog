@@ -8,5 +8,4 @@ Recently, I created a new project using Turbowarp and an extension that allowed 
 ## DBZone
 DBZone is my TurboZone page. Anything I upload there is my own content, and once I start uploading there more frequently, there will be special sneak peeks of never before seen content, such as Scratch projects that are unfinished, I built this partially as an example of how TurboZone can be used, but mainly as a page for me to upload secret, never before seen stuff. Pretty cool, right? Here are some screenshots!
 ![DBZone Screenshot 1, shows main page](https://raw.githubusercontent.com/DBShorts/damians-blog/main/_posts/DBZone%20Screenshot%20%231.png)
-  And here is where i would put Screenshot Number 2... IF GITHUB WASNT UPLOADING THE WRONG ONE >:(
-  unless its like my computer doing something stupid, in that case, sorry github :(
+![DBZone Screenshot 2, shows a video loaded on the page](https://github.com/DBShorts/damians-blog/blob/main/_posts/DBZone%20Screenshot%20%232.png?raw=true)
