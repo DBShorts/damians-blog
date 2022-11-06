@@ -44,6 +44,6 @@ hr {
   opacity: 0.3;
 }
 
-title, body, h1, h2, h3, h4, h5, .site-title, .site-nav {
+title, body, h1, h1.post-title.p-name, h1.page-heading, h2, h3, h4, h5, .site-title, .site-nav {
   font-family: 'Press Start 2P', sans-serif;
 }
