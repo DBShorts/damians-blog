@@ -1,3 +1,2 @@
 # damians-blog
-this is just a blog lol, dont expect much other than updates about my website and games  
-join my discord to be notified https://dbshorts.github.io/damians-dandy-discord.html
+same situation as rewritten, i have a blogger page now for stuff less coding related, also this has always been completely fucking broken lets be fr ☠️
